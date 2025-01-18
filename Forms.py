@@ -3,6 +3,7 @@ import openpyxl
 import pyautogui
 import time
 
+##automação para spammar formulario sem base excel;
 
 pyautogui.press('win')
 time.sleep(0.4)
