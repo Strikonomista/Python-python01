@@ -33,7 +33,7 @@ for _ in range(60):
     pyautogui.click(x=682, y=555, clicks=1, interval =0.5, button = 'left')
     pyautogui.click(x=687, y=826, clicks=1, interval =0.5, button = 'left')
     pyautogui.click(x=803, y=975, clicks=1, interval =0.5, button = 'left')
-            #  https://imgur.com/gallery/one-more-reason-to-always-carry-knife-PKZa0wv garrafa fanta
+        
     time.sleep(2)
     pyautogui.press('tab')
     pyautogui.press('tab')
